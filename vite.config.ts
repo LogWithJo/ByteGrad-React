@@ -15,5 +15,5 @@ export default defineConfig({
 		strictPort: true,
 		port: 2011,
 	},
-	base: '/ByteGrad-React/',
+	base: '/React-Bytegrad/',
 });
